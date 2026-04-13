@@ -1,35 +1,131 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ibrahim</h1>
-<h3 align="center">A passionate Computer Scientist</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-ibrahim-pro&label=Profile%20views&color=0e75b6&style=flat" alt="m-ibrahim-pro" /> </p>
+<h1 align="center">Muhammad Ibrahim</h1>
+<h3 align="center">Full-Stack AI Engineer | RAG Systems | LLM Integrations | Production-Ready AI</h3>
 
-   <img align ="right" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding" height="300">
-
-
-- 💬 Ask me about **Windowform C#, SQL**
-
-- 📫 How to reach me **m.ibrahimab30139@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/m-ibrahim-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-ibrahim-pro" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mibrahim_30139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mibrahim_30139" height="30" width="40" /></a>
+<p align="center">
+Building scalable AI systems with <b>LLMs, RAG pipelines, and agentic workflows</b> using Go & TypeScript.
 </p>
 
-</br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-ibrahim-pro&show_icons=true&locale=en&layout=compact" alt="m-ibrahim-pro" />
-<br>
+* 🔧 Engineer focused on **production-grade AI systems**, not demos
+* 🧠 Specialized in **RAG, multi-model LLM orchestration, and agent workflows**
+* ⚙️ Strong backend foundation using **Go + system design principles**
+* 🌐 Full-stack execution with **Next.js, React, TypeScript**
+* 🤖 Daily user of **Claude Code, Codex, Copilot** for accelerated development
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-ibrahim-pro&show_icons=true&locale=en" alt="m-ibrahim-pro" />
-<br>
+## 🧠 Core Expertise
+
+* **Retrieval-Augmented Generation (RAG)**
+
+  * Multi-modal ingestion (.pdf, .docx, .txt, etc.)
+  * Vector search using **Qdrant**
+  * Hybrid retrieval pipelines
+
+* **LLM Integrations**
+
+  * OpenAI, Claude, Gemini, Llama
+  * Prompt engineering & structured outputs
+  * Multi-model routing & fallback strategies
+
+* **Agentic Workflows**
+
+  * Microsoft AutoGen
+  * LangChain / LangSmith
+  * Tool-augmented reasoning systems
+
+* **System Design**
+
+  * Scalable backend architecture (Go)
+  * API design & performance optimization
+  * Clean architecture / domain-driven thinking
 
 ---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-ibrahim-pro&" alt="m-ibrahim-pro" />
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs,nestjs" />
+</p>
+
+### AI / LLM / RAG
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* LangChain, LangSmith, AutoGen, MCP
+* OpenAI, Claude, Gemini, Llama, HuggingFace
+* Qdrant (Vector DB)
+
+### Databases & Infra
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,azure,git,githubactions" />
+</p>
+
+---
+
+## 📌 Featured Work
+
+### 🔹 Multi-Model AI Chat Platform (In Progress)
+
+* Unified interface for **OpenAI, Claude, Gemini**
+* Integrated **web search + reasoning modes**
+* Multi-modal **RAG pipeline**
+* Workspace-based architecture with access control
+
+---
+
+### 🔹 AI Website Builder
+
+* Generate full websites via **natural language**
+* Live preview + instant deployment
+* Persistent storage with PostgreSQL
+* LLM-driven UI + backend generation
+
+---
+
+### 🔹 AI Humanizer (Production System)
+
+* Multiple transformation modes (Formal, Casual, Enhanced)
+* Designed to bypass detection tools (ZeroGPT, etc.)
+* Built using **Azure AI Foundry**
+
+---
+
+## 🧪 What I’m Currently Building
+
+* Advanced **RAG pipelines with hybrid retrieval**
+* **Agent-based systems** with tool usage
+* High-performance **AI backends in Go**
+* Multi-model orchestration systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=M-IBRAHIM-PRO&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-IBRAHIM-PRO" />
+</p>
+
+---
+
+## 📫 Connect
+
+* LinkedIn: https://linkedin.com/in/m-ibrahim-pro
+* Email: [m.ibrahm.0001@gmail.com](mailto:m.ibrahm.0001@gmail.com)
+
+---
+
+## ⚡ Engineering Philosophy
+
+> “AI systems are not prompts — they are architectures.”
+
+I focus on building **reliable, scalable, and production-ready AI systems**, not prototypes.
