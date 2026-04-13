@@ -1,0 +1,59 @@
+<svg width="900" height="520" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .box { fill: #0f172a; stroke: #334155; stroke-width: 1.5; rx: 10; }
+    .text { fill: #e2e8f0; font-size: 13px; }
+    .title { fill: #f59e0b; font-size: 14px; font-weight: bold; }
+    .arrow { stroke: #64748b; stroke-width: 1.5; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+
+  <!-- Start -->
+  <rect class="box" x="350" y="20" width="200" height="40"/>
+  <text class="text" x="390" y="45">👤 User Task</text>
+
+  <!-- Planner -->
+  <rect class="box" x="300" y="90" width="300" height="60"/>
+  <text class="title" x="330" y="115">Planner Agent</text>
+  <text class="text" x="320" y="135">Task Decomposition</text>
+
+  <!-- Tools -->
+  <rect class="box" x="100" y="200" width="200" height="60"/>
+  <text class="text" x="130" y="235">🛠️ APIs</text>
+
+  <rect class="box" x="350" y="200" width="200" height="60"/>
+  <text class="text" x="380" y="235">🗂️ Database</text>
+
+  <rect class="box" x="600" y="200" width="200" height="60"/>
+  <text class="text" x="630" y="235">🌐 Web Search</text>
+
+  <!-- Execution -->
+  <rect class="box" x="300" y="300" width="300" height="70"/>
+  <text class="title" x="330" y="325">Execution Agents</text>
+  <text class="text" x="310" y="345">Tool Usage + Reasoning</text>
+
+  <!-- Memory -->
+  <rect class="box" x="300" y="400" width="300" height="60"/>
+  <text class="text" x="350" y="430">🧠 Memory Store</text>
+
+  <!-- Output -->
+  <rect class="box" x="350" y="480" width="200" height="40"/>
+  <text class="text" x="390" y="505">🖥️ Final Response</text>
+
+  <!-- Arrows -->
+  <line class="arrow" x1="450" y1="60" x2="450" y2="90"/>
+  <line class="arrow" x1="450" y1="150" x2="200" y2="200"/>
+  <line class="arrow" x1="450" y1="150" x2="450" y2="200"/>
+  <line class="arrow" x1="450" y1="150" x2="700" y2="200"/>
+
+  <line class="arrow" x1="200" y1="260" x2="450" y2="300"/>
+  <line class="arrow" x1="450" y1="260" x2="450" y2="300"/>
+  <line class="arrow" x1="700" y1="260" x2="450" y2="300"/>
+
+  <line class="arrow" x1="450" y1="370" x2="450" y2="400"/>
+  <line class="arrow" x1="450" y1="460" x2="450" y2="480"/>
+</svg>
