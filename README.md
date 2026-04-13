@@ -50,7 +50,7 @@ Building scalable AI systems with <b>LLMs, RAG pipelines, and agentic workflows<
 ### Languages & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs,nestjs" />
+<img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs" />
 </p>
 
 ### AI / LLM / RAG
@@ -66,28 +66,12 @@ Building scalable AI systems with <b>LLMs, RAG pipelines, and agentic workflows<
 ### Databases & Infra
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,azure,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,azure,git,githubactions,gitea" />
 </p>
 
 ---
 
 ## 📌 Featured Work
-
-### 🔹 Multi-Model AI Chat Platform (In Progress)
-
-* Unified interface for **OpenAI, Claude, Gemini**
-* Integrated **web search + reasoning modes**
-* Multi-modal **RAG pipeline**
-* Workspace-based architecture with access control
-
----
-
-### 🔹 AI Website Builder
-
-* Generate full websites via **natural language**
-* Live preview + instant deployment
-* Persistent storage with PostgreSQL
-* LLM-driven UI + backend generation
 
 ---
 
@@ -96,6 +80,15 @@ Building scalable AI systems with <b>LLMs, RAG pipelines, and agentic workflows<
 * Multiple transformation modes (Formal, Casual, Enhanced)
 * Designed to bypass detection tools (ZeroGPT, etc.)
 * Built using **Azure AI Foundry**
+
+----
+
+### 🔹 AI Website Builder
+
+* Generate full websites via **natural language**
+* Live preview + instant deployment
+* Persistent storage with PostgreSQL
+* LLM-driven UI + backend generation
 
 ---
 
