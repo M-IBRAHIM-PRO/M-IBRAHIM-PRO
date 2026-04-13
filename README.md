@@ -92,22 +92,28 @@ Designing and building <b>production-grade AI systems</b> using LLMs, RAG pipeli
 # 🧩 System Architecture (RAG Pipeline)
 
 <img src="assets/diagrams/rag-architecture.svg" width="100%" />
+
 **Highlights:**
 - Hybrid retrieval with vector + document store
+
 ---
 
 # 🧠 Multi-Model Orchestration Architecture
 
 <img src="assets/diagrams/multi-model.svg" width="100%" />
+
 **Highlights:**
 - Model routing based on latency & cost
+
 ---
 
 # 🤖 Agent Workflow Architecture
 
 <img src="assets/diagrams/agent-worflow.svg" width="100%" />
+
 **Highlights:**
 - Agent-based execution with tool integration
+
 ---
 
 ## 📊 GitHub Stats
